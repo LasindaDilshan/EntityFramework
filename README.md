@@ -3,12 +3,10 @@
 Api Calls as following
 
 1. https://localhost:7087/api/Charactor  (POST)
-
 {
    "name": "Legolas",
    "rpgclass" : "Archer",
    "userId":2
-
 }
 
 2. https://localhost:7087/api/Charactor?userId=2 (GET)
