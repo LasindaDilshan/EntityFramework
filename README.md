@@ -13,5 +13,5 @@ Api Calls as following
 
 3. https://localhost:7087/api/Charactor/weapon (POST) {"name" : "Magic Staff","damage": 200, "characterId":4}
 
-4. https://localhost:7087/api/Charactor/skills (POST){ "charactorId":3,"skillId": 1}
+4. https://localhost:7087/api/Charactor/skills (POST) { "charactorId":3,"skillId": 1}
 
