@@ -11,13 +11,8 @@ Api Calls as following
 
 2. https://localhost:7087/api/Charactor?userId=2 (GET)
 
-3. https://localhost:7087/api/Charactor/weapon (POST)
+3. https://localhost:7087/api/Charactor/weapon (POST) {"name" : "Magic Staff","damage": 200, "characterId":4}
 
-{
-    "name" : "Magic Staff",
-    "damage": 200,
-    "characterId":4
-}
 4. https://localhost:7087/api/Charactor/skills (POST)
 
 {
